@@ -5,9 +5,9 @@
  }
 
 body {
-  background-image: url(/images/owl-ga416124a9_1920.jpg);
+  background-image: url(/images/owl.jpg);
   background-size: cover;
-  color:orange;
+  color: rgba(250,129,1,255);
   text-align: center;
 }
 
